@@ -1,0 +1,4 @@
+# - name: About
+#   link: /index
+- name: Publications
+  link: /publications/
