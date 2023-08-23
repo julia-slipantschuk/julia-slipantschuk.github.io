@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "."
+title: "ㅤㅤ"
 hero_height: is-fullwidth
-hero_image: /images/me_canyon.jpg
+hero_image: /images/js.jpg
 ---
-
 
 <img src="images/spectrum.png" alt="spectrum" width="300" height="300" style="float:right;">
 
