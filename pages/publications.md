@@ -41,7 +41,7 @@ K. Zahradova, J. Slipantschuk, O. F. Bandtlow, W. Just.
 
 **[Transfer operator approach to ray-tracing in circular domains](https://iopscience.iop.org/article/10.1088/1361-6544/ab9dca)** <br>
 J. Slipantschuk, M. Richter, D. J. Chappell, G. Tanner, W. Just, O. F. Bandtlow.
-*Nonlinearity 33(11), 2022.*
+*Nonlinearity 33(11), 2020.*
 
 **[Dynamic mode decomposition for analytic maps](https://www.sciencedirect.com/science/article/pii/S1007570420300149)** <br>
 J. Slipantschuk, O. F. Bandtlow, W. Just.
