@@ -24,10 +24,11 @@ email:
 description: >-
   Julia Slipantschuk - Mathematics Institute, University of Warwick.
 
-baseurl: https://julia-slipantschuk.github.io
+url: https://julia-slipantschuk.github.io
 # baseurl: /julia-slipantschuk
 
-theme: bulma-clean-theme
+# theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -48,3 +49,5 @@ theme: bulma-clean-theme
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+plugins:
+- github-pages
