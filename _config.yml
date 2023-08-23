@@ -24,8 +24,8 @@ email:
 description: >-
   Julia Slipantschuk - Mathematics Institute, University of Warwick.
 
-url: "https://julia-slipantschuk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /julia-slipantschuk
+baseurl: https://julia-slipantschuk.github.io
+# baseurl: /julia-slipantschuk
 
 theme: bulma-clean-theme
 
