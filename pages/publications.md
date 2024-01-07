@@ -6,12 +6,13 @@ hero_height: is-fullwidth
 hero_image: /images/blackboard2.jpg
 ---
 
-**[Effective estimates of ergodic quantities illustrated on the Bolyai-Rényi map](/data/ps_2023_bolyairenyi.pdf)** <br>
-M. Pollicott, J. Slipantschuk. *Under review.*
+**[Effective estimates of ergodic quantities illustrated on the Bolyai-Rényi map](https://arxiv.org/abs/2308.04293)** <br>
+M. Pollicott, J. Slipantschuk. 
+*arXiv preprint, arXiv:2308.04293, 2023.*
 
-**[EDMD for expanding circle maps and their complex perturbations](/data/bjs_2023.pdf)** <br>
+**[EDMD for expanding circle maps and their complex perturbations](https://arxiv.org/abs/2308.01467)** <br>
 O. F. Bandtlow, W. Just, J. Slipantschuk.
-*Under review.*
+*arXiv preprint, arXiv:2308.01467, 2023.*
 
 **[A numerical study of rigidity of hyperbolic splittings in simple two-dimensional maps](https://webspace.maths.qmul.ac.uk/o.bandtlow/publ/hypsplit.pdf)** <br>
 O. F. Bandtlow, W. Just, J. Slipantschuk.

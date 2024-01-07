@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ㅤㅤ"
+title: "Julia Slipantschuk"
 hero_height: is-fullwidth
 hero_image: /images/js.jpg
 ---
@@ -17,14 +17,14 @@ My departmental address is:
 Zeeman Building\
 University of Warwick\
 Coventry CV4 7AL**
-<!--
-<br/> -->
 
 ## Research interests
 
 My research is in chaotic dynamical systems and understanding their long-term behaviour using functional analytical techniques. I am interested in the interplay between Ergodic Theory and Spectral Theory, in particular in Ruelle resonances of hyperbolic dynamical systems. I also have a strong interest in applications, developing algorithms to approximate dynamical quantities of interest such as invariant measures, mixing rates, Lyapunov exponents, dimensions of hyperbolic attractors.
 
 ## Professional history
+
+In 2010, I obtained my Masters Degree in Interdisciplinary Sciences from ETH Zurich.
 
 In 2014, I received my PhD from Queen Mary University of London under the joint
 supervision of Wolfram Just and Oscar F. Bandtlow (see [my thesis](/data/thesis.pdf)).
