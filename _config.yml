@@ -27,8 +27,9 @@ description: >-
 url: https://julia-slipantschuk.github.io
 # baseurl: /julia-slipantschuk
 
-theme: bulma-clean-theme
+# theme: bulma-clean-theme
 # remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 # Exclude from processing.
 # The following items will not be processed, by default.
