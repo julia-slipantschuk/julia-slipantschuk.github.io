@@ -6,21 +6,25 @@ hero_height: is-fullwidth
 hero_image: /images/blackboard2.jpg
 ---
 
-**[Effective estimates of ergodic quantities illustrated on the Bolyai-Rényi map](https://arxiv.org/abs/2308.04293)** <br>
-M. Pollicott, J. Slipantschuk. 
-*arXiv preprint, arXiv:2308.04293, 2023.*
+**[Convergence properties of dynamical mode decomposition for analytic interval maps](https://arxiv.org/abs/2404.08512)** <br>
+E.Akindji, J. Slipantschuk, O.F. Bandtlow, W.Just.
+*arXiv preprint, arXiv:2404.08512, 2024.*
 
-**[EDMD for expanding circle maps and their complex perturbations](https://arxiv.org/abs/2308.01467)** <br>
-O. F. Bandtlow, W. Just, J. Slipantschuk.
-*arXiv preprint, arXiv:2308.01467, 2023.*
+**[Effective estimates of ergodic quantities illustrated on the Bolyai-Rényi map](https://iopscience.iop.org/article/10.1088/1361-6544/ad6053)** <br>
+M. Pollicott, J. Slipantschuk.
+*Nonlinearity 37(9), 2024.*
 
-**[A numerical study of rigidity of hyperbolic splittings in simple two-dimensional maps](https://webspace.maths.qmul.ac.uk/o.bandtlow/publ/hypsplit.pdf)** <br>
+**[A numerical study of rigidity of hyperbolic splittings in simple two-dimensional maps](https://iopscience.iop.org/article/10.1088/1361-6544/ad2b58)** <br>
 O. F. Bandtlow, W. Just, J. Slipantschuk.
-*Under review.*
+*Nonlinearity 37(4), 2024.*
+
+**[EDMD for expanding circle maps and their complex perturbations](https://www.sciencedirect.com/science/article/pii/S1063520324000678)** <br>
+O. F. Bandtlow, W. Just, J. Slipantschuk.
+*Applied and Computational Harmonic Analysis 73, 2024.*
 
 **[Non-periodic not everywhere dense trajectories in triangular billiards](https://www.math.uni-rostock.de/~wj/ms/cmp_22.pdf)** <br>
 J. Slipantschuk, O. F. Bandtlow, W. Just.
-*Under review.*\
+*to appear in Transactions of the American Mathematical Society, 2024.*\
 See also **[this related article](
 https://plus.maths.org/content/playing-billiards-strange-tables)** in the Plus magazine.
 
