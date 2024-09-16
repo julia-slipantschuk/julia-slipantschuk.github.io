@@ -7,16 +7,16 @@ hero_image: /images/js.jpg
 
 <img src="images/spectrum.png" alt="spectrum" width="300" height="300" style="float:right;">
 
-I am a Research Fellow at the [Mathematics Institute of the University of Warwick](https://warwick.ac.uk/fac/sci/maths/).
+I am currently a Research Associate (Akademische Rätin) at the 
+[Department of Mathematics of the University of Bayreuth](https://www.dsd.uni-bayreuth.de/en/team/index.html).
 
-You can contact me at **firstname.lastname@warwick.ac.uk**
+You can contact me at **firstname.lastname@uni-bayreuth.de**
 
 My departmental address is:
 
-**Mathematics Institute\
-Zeeman Building\
-University of Warwick\
-Coventry CV4 7AL**
+**Department of Mathematics\
+University of Bayreuth\
+Bayreuth 95444**
 
 ## Research interests
 
@@ -34,5 +34,7 @@ From 2014 to 2018 I worked as a Research Engineer at London-based sports data an
 From 2018 to 2021 I was a PostDoctoral Research Assistant at the [School of Mathematical Sciences,
 Queen Mary University of London](https://www.qmul.ac.uk/maths/).
 
-In 2021, I joined the [Mathematics Institute of the University of Warwick](https://warwick.ac.uk/fac/sci/maths/) as a Research Fellow.
+From 2021 to 2024, I was a Research Fellow at the [Mathematics Institute of the University of Warwick](https://warwick.ac.uk/fac/sci/maths/).
+
+In 2024, I joined the [Department of Mathematics of the University of Bayreuth](https://www.math.uni-bayreuth.de/en/) as a Research Associate (Akademische Rätin). 
 
