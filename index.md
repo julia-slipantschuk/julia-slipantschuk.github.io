@@ -10,7 +10,7 @@ hero_image: /images/js.jpg
 I am currently a Research Associate (Akademische Rätin) at the 
 [Department of Mathematics of the University of Bayreuth](https://www.dsd.uni-bayreuth.de/en/team/index.html).
 
-You can contact me at **firstname.lastname@uni-bayreuth.de**
+You can contact me at **Firstname.Lastname@uni-bayreuth.de**
 
 My departmental address is:
 
