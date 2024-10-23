@@ -14,9 +14,12 @@ You can contact me at **Firstname.Lastname@uni-bayreuth.de**
 
 My departmental address is:
 
-**Department of Mathematics\
-University of Bayreuth\
-Bayreuth 95444**
+**Universität Bayreuth\
+Fakultät für Mathematik, Physik & Informatik\
+Dynamical Systems and Data\
+95440 Bayreuth**
+
+
 
 ## Research interests
 
