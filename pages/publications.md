@@ -11,7 +11,7 @@ J.Grebík, D. Král', X. Liu, O. Pikhurko, J.Slipantschuk.
 
 **[Non-periodic not everywhere dense trajectories in triangular billiards](https://www.math.uni-rostock.de/~wj/ms/cmp_22.pdf)** <br>
 J. Slipantschuk, O. F. Bandtlow, W. Just.
-*Trans. Amer. Math. Soc. 378 (2025) 375-388*\
+*Trans. Amer. Math. Soc. 378, 2025*\
 See also **[this related article](
 https://plus.maths.org/content/playing-billiards-strange-tables)** in the Plus magazine.
 
