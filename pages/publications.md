@@ -5,6 +5,9 @@ permalink: /publications/
 hero_height: is-fullwidth
 hero_image: /images/blackboard2.jpg
 ---
+**[Convergence of spectra of digraph limits]** <br>
+J.Grebík, D. Král', X. Liu, O. Pikhurko, J.Slipantschuk.
+*arXiv preprint, 	arXiv:2506.04426, 2025.*
 
 **[Convergence properties of dynamical mode decomposition for analytic interval maps](https://arxiv.org/abs/2404.08512)** <br>
 E.Akindji, J. Slipantschuk, O.F. Bandtlow, W.Just.
