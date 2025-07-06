@@ -5,9 +5,15 @@ permalink: /publications/
 hero_height: is-fullwidth
 hero_image: /images/blackboard2.jpg
 ---
-**[Convergence of spectra of digraph limits]** <br>
+**[Convergence of spectra of digraph limits](https://arxiv.org/abs/2506.04426)** <br>
 J.Grebík, D. Král', X. Liu, O. Pikhurko, J.Slipantschuk.
 *arXiv preprint, 	arXiv:2506.04426, 2025.*
+
+**[Non-periodic not everywhere dense trajectories in triangular billiards](https://www.math.uni-rostock.de/~wj/ms/cmp_22.pdf)** <br>
+J. Slipantschuk, O. F. Bandtlow, W. Just.
+*Trans. Amer. Math. Soc. 378 (2025) 375-388*\
+See also **[this related article](
+https://plus.maths.org/content/playing-billiards-strange-tables)** in the Plus magazine.
 
 **[Convergence properties of dynamical mode decomposition for analytic interval maps](https://arxiv.org/abs/2404.08512)** <br>
 E.Akindji, J. Slipantschuk, O.F. Bandtlow, W.Just.
@@ -24,12 +30,6 @@ O. F. Bandtlow, W. Just, J. Slipantschuk.
 **[EDMD for expanding circle maps and their complex perturbations](https://www.sciencedirect.com/science/article/pii/S1063520324000678)** <br>
 O. F. Bandtlow, W. Just, J. Slipantschuk.
 *Applied and Computational Harmonic Analysis 73, 2024.*
-
-**[Non-periodic not everywhere dense trajectories in triangular billiards](https://www.math.uni-rostock.de/~wj/ms/cmp_22.pdf)** <br>
-J. Slipantschuk, O. F. Bandtlow, W. Just.
-*to appear in Transactions of the American Mathematical Society, 2024.*\
-See also **[this related article](
-https://plus.maths.org/content/playing-billiards-strange-tables)** in the Plus magazine.
 
 **[Sierpiński fractals and the dimension of their Laplacian spectrum](/data/ps_2023_decimation.pdf)** <br>
 M. Pollicott, J. Slipantschuk.
