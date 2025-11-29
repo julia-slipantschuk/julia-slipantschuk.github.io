@@ -23,7 +23,7 @@ Dynamical Systems and Data\
 
 ## Research interests
 
-My research is in chaotic dynamical systems and understanding their long-term behaviour using functional analytical techniques. I am interested in the interplay between Ergodic Theory and Spectral Theory, in particular in Ruelle resonances of hyperbolic dynamical systems. I also have a strong interest in applications, developing algorithms to approximate dynamical quantities of interest such as invariant measures, mixing rates, Lyapunov exponents, dimensions of hyperbolic attractors.
+My research is in  dynamical systems and understanding their long-term behaviour using functional analytical techniques. I am interested in the interplay between Ergodic Theory and Spectral Theory, in particular in Ruelle resonances of hyperbolic dynamical systems. I also have a strong interest in applications, developing algorithms to approximate dynamical quantities of interest such as invariant measures, mixing rates, Lyapunov exponents, dimensions of hyperbolic attractors.
 
 ## Professional history
 
