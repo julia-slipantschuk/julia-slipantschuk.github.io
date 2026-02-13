@@ -9,13 +9,13 @@ hero_image: /images/blackboard2.jpg
 J.Grebík, D. Král', X. Liu, O. Pikhurko, J.Slipantschuk.
 *European J. Combin. 134, 2026*
 
+**[Convergence properties of dynamical mode decomposition for analytic interval maps](https://onlinelibrary.wiley.com/doi/10.1002/cpa.70011)** <br>
+E.Akindji, J. Slipantschuk, O.F. Bandtlow, W.Just.
+*Comm. Pure Appl. Math, 79(2) 2026.*
+
 **[Avoiding spectral  pollution for transfer operators using residuals](https://web3.arxiv.org/abs/2507.16915)** <br>
 A.Herwig, M. Colbrook, O. Junge, P. Koltai, J.Slipantschuk.
 *arXiv preprint, 	arXiv: 2507.16915  2025.*
-
-**[Convergence properties of dynamical mode decomposition for analytic interval maps](https://onlinelibrary.wiley.com/doi/10.1002/cpa.70011)** <br>
-E.Akindji, J. Slipantschuk, O.F. Bandtlow, W.Just.
-*Comm. Pure Appl. Math, 2025 (to appear).*
 
 **[Non-periodic not everywhere dense trajectories in triangular billiards](https://www.math.uni-rostock.de/~wj/ms/cmp_22.pdf)** <br>
 J. Slipantschuk, O. F. Bandtlow, W. Just.
