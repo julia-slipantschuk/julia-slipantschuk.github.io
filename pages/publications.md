@@ -7,7 +7,7 @@ hero_image: /images/blackboard2.jpg
 ---
 **[Convergence of spectra of digraph limits](https://arxiv.org/abs/2506.04426)** <br>
 J.Grebík, D. Král', X. Liu, O. Pikhurko, J.Slipantschuk.
-*arXiv preprint, 	arXiv:2506.04426, 2025. (to appear in Eur.J.Comb.)*
+*European J. Combin. 134, 2026*
 
 **[Avoiding spectral  pollution for transfer operators using residuals](https://web3.arxiv.org/abs/2507.16915)** <br>
 A.Herwig, M. Colbrook, O. Junge, P. Koltai, J.Slipantschuk.
